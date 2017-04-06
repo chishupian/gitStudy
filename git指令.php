@@ -112,7 +112,9 @@ Git 指令
 		
 	删除分支：
 		git branch -d 分支名称
-		
+17、解决冲突
+	git的冲突必须使用手动解决再提交
+	git log --graph --pretty=oneline abbrev-commit 查看详细的冲突问题
 		
 	
 	
