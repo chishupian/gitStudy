@@ -115,6 +115,10 @@ Git 指令
 17、解决冲突
 	git的冲突必须使用手动解决再提交
 	git log --graph --pretty=oneline abbrev-commit 查看详细的冲突问题
+
+18、禁用Fast Forward模式
+	原因：Fast Forward模式会在删除分支后丢失分支信息,不利于后期维护
+	方法：采用git merge --no-ff -m '注释内容' 分支
 		
 	
 	
@@ -129,7 +133,6 @@ Git 指令
 	
 	
 	
-	
-	
+
 	
 	
