@@ -1,3 +1,0 @@
-here is something
-我在master中修改了conflict文件
-我在分支中修改了这个文件
