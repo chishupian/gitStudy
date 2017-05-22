@@ -41,7 +41,7 @@ Git 指令
 	//版本号 通常前7为能表示一个独一无二的版本号
 	commit 82352269d36b67b60f9e442738fff15536293f75
 	//提交人的信息
-	Author: pawn <phpssl@163.com>
+	Author: pawn 
 	//提价时间
 	Date:   Wed Apr 5 11:05:23 2017 +0800
 	//提交的注释内容
